@@ -2,7 +2,7 @@
 We're a safe space for transgender, non-binary or otherwise gender-diverse people. This is our code. We license the vast majority of our code under either the MIT license or the GNUAGPLv3, but this may vary per-repository.
 
 #### Where can you find us?
-[![Discord](https://img.shields.io/badge/message%20on%20discord-Minion%233665-7289DA?logo=discord&labelColor=grey&style=for-the-badge)](https://discord.gg/transplace)<br/>
+[![Discord](https://img.shields.io/badge/join%20our-discord?logo=discord&labelColor=grey&style=for-the-badge)](https://discord.gg/transplace)<br/>
 [![Reddit](https://img.shields.io/badge/back%20to%20where%20it%20started-on%20Reddit?logo=reddit&labelColor=FF4500&style=for-the-badge)](https://reddit.com/r/transplace)<br/>
 [![Revolt](https://img.shields.io/badge/discord%20causing%20%strife%3F-hop%20on%20Revolt-0dbd8b?logo=revoltdotchat&labelColor=ff4655&style=for-the-badge)](https://rvlt.gg/wEXFtr9s)<br/>
 
