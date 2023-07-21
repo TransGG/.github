@@ -3,7 +3,7 @@ We're a safe space for transgender, non-binary or otherwise gender-diverse peopl
 
 #### Where can you find us?
 [![Discord](https://img.shields.io/badge/join%20our-discord-5865F2?logo=discord&labelColor=white&style=for-the-badge)](https://discord.gg/transplace)<br/>
-[![Reddit](https://img.shields.io/badge/back%20to%20where%20it%20started-on%20Reddit?logo=reddit&labelColor=FF4500&style=for-the-badge)](https://reddit.com/r/transplace)<br/>
+[![Reddit](https://img.shields.io/badge/back%20to%20where%20it%20started-on%20Reddit-FF4500?logo=reddit&labelColor=white&style=for-the-badge)](https://reddit.com/r/transplace)<br/>
 [![Revolt](https://img.shields.io/badge/discord%20causing%20%strife%3F-hop%20on%20Revolt-0dbd8b?logo=revoltdotchat&labelColor=ff4655&style=for-the-badge)](https://rvlt.gg/wEXFtr9s)<br/>
 
 [![Our website](https://img.shields.io/badge/see%20it%20all%20again-on%20our%20website-0dbd8b?logo=internetexplorer&labelColor=grey&style=for-the-badge)](https://trans.gg)<br/>
